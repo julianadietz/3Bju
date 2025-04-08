@@ -12,6 +12,8 @@
    color:black;
    font-syle: italic;
 
+ h3 {
+      color: black;
  }
 .imagem {
    width: 50%;
